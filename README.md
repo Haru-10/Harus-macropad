@@ -25,7 +25,25 @@ This is the photo of the case from another angle
   Now Here is the layout of the actual PCB that will get printed, made up of 2 layers. It has a matrix next to a rotary encoder and an OLED.
 <img width="1196" height="902" alt="image" src="https://github.com/user-attachments/assets/d536f1f4-47ff-4359-b964-599e71698927" />
 
+ # Firmware
+This runs entirely on KMK Firmware
+- Rotary Encoder Deals with volume
+- 9 keys will run different keybinds/Macros
+- Oled will display days until my next competition
+- These can change from a simple python file!
 
+  # BOM:
+  List of items for the hackpad
+- 9x Cherry MX Switches
+- 9x DSA Keycaps
+- 5x M3x5x4 Heatset inserts
+- 3x M3x16mm SHCS Bolts
+- 2X M3x12mm SHCS Bolts
+- 9x 1N4148 DO-35 Diodes.
+- 1x 0.91" 128x32 OLED Display
+- 1x EC11 Rotary Encoder
+- 1x Xiao RP2040
+- 1x Case (2x 3d printed pieces put together)
+- 
   # Extra-info:
-
   I had to redo the entire pcb around 6 times because first I put the mcu in the middle, and then had to keep rewiring because the wires were horrible, and have learned quite a bit about pcb design.

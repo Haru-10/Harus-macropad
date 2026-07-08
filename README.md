@@ -18,6 +18,11 @@ The items will also be apart, which will be updated with real life photos to mak
 This is the photo of the case from another angle
  <img width="955" height="567" alt="image" src="https://github.com/user-attachments/assets/c64d52a1-dc1a-4268-b4e0-d273cf701129" />
 
+This is the CAD model with the PCB, there is a slit for the usb C port
+
+<img width="913" height="475" alt="image" src="https://github.com/user-attachments/assets/b912d0a6-12fb-46c6-89e6-568d461d575e" />
+
+
   # PCB:
   Here's my schematic for the PCB, made in KICAD.
 <img width="1253" height="649" alt="image" src="https://github.com/user-attachments/assets/87f9fa2d-f953-4715-869a-d9bc86414d6a" />
